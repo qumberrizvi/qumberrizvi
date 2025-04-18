@@ -10,6 +10,7 @@ Currently, I’m:
 Let’s connect:
 - 📫 hey [at] qumberrizvi [dot] com
 - 💼 [LinkedIn](https://www.linkedin.com/in/qumberrizvi/)
+- 🌐 [qumberrizvi.com](https://qumberrizvi.com) _(WIP – always evolving, like good code)_
 
 > I build with precision, write with passion, and love turning complex ideas into simple, meaningful experiences.
 
